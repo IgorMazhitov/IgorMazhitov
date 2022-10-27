@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @IgorMazhitov
 - 👀 I’m interested in Web-Development 
-- 🌱 I’m currently learning JavaScript, CSS, HTML
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently progressing in learning JavaScript, CSS, HTML and ReactJS/Redux/Tailwind
 - 📫 How to reach me: mazhitov.igo@mail.ru
 - Check Portfolio repository - I'm proud of it!
 
