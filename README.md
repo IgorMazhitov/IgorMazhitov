@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning JavaScript, CSS, HTML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: mazhitov.igo@mail.ru
+- Check Portfolio repository - I'm proud of it!
 
 <!---
 Hello once again. Here's my story and I'll add some in future. I'm from a family with total salary of 2-2,5k$ per year, depends on how long my father has stayed
