@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @IgorMazhitov
-- 👀 I’m Middle Full-Stack Software Developer
-- 👨‍💻 My stack is: JavaScript/TypeScript | React/Redux | Angular | NestJS | Python | PostgreSQL/DynamoDB/MongoDB | HTML/CSS | Tailwind | Git | Docker | Sentry | AWS | RabbitMQ
+- 👀 I’m a Software Engineer
+- 👨‍💻 My stack is: JavaScript/TypeScript/NodeJS | React/Redux | Angular | NestJS | Python | PostgreSQL/DynamoDB/MongoDB | HTML/CSS | Tailwind | Git | Docker | Sentry | AWS | RabbitMQ
 - 📫 How to reach me: mazhitovigor98@gmail.com
